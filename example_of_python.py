@@ -4,9 +4,7 @@ print('Hello world')  # изучил комментарий,долго не по
 "Как ваше имя?",- спросил я.
 Он ответил"Бонд,Джеймс Бонд."'''  # изучил тройные кавычки
 
-print(f.__doc__)
-print(math.__doc__)
 age = 57
 name = "Peso"
-print('Возраст {0} -- {1} лет'.format(name,age))
+print('Возраст {0} -- {1} лет'.format(name, age))
 print("Почему{0} забавляется с этим Python?".format(name))
