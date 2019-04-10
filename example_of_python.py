@@ -4,15 +4,6 @@ print('Hello world')  # изучил комментарий,долго не по
 "Как ваше имя?",- спросил я.
 Он ответил"Бонд,Джеймс Бонд."'''  # изучил тройные кавычки
 
-import math
-def f():
-    '''
-    Super-puper function f
-
-    The function doing nothing :)
-    '''
-
-
 print(f.__doc__)
 print(math.__doc__)
 age = 57
